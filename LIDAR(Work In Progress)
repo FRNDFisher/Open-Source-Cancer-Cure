@@ -1,0 +1,4 @@
+The LIDAR used by AiCEDT will not be a conventional LIDAR,
+it will be a lidar with a beam of 15 µm in diameter at most to allow AiCEDT to detect the physical characteristics of the target cell accurately,
+this LIDAR will work by focusing light from 2 light emitters using a circuit of small mirrors perfectly aligned with an opening point at the bottom of the structure that will hold the LIDAR components,
+this opening will be 15.2 µm in diameter, and the light sensor itself will basically be like a common light sensor but capable of capturing light in a narrow beam.
